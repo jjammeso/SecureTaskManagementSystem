@@ -1,0 +1,24 @@
+{
+  "name": "securetaskmanagementsystem",
+  "version": "1.0.0",
+  "description": "Secure Task Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjammeso/SecureTaskManagementSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjammeso/SecureTaskManagementSystem/issues"
+  },
+  "homepage": "https://github.com/jjammeso/SecureTaskManagementSystem#readme",
+  "devDependencies": {
+    "nx": "21.5.2"
+  },
+  "nx": {}
+}
